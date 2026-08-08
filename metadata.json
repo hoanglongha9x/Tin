@@ -1,0 +1,6 @@
+{
+  "name": "Socrates Tin Học - Trợ lý Học tập AI THPT",
+  "description": "Trợ lý học tập Tin học dành cho học sinh THPT sử dụng phương pháp Socratic gợi mở, hỗ trợ lập trình Python, C++, thuật toán và CSDL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
